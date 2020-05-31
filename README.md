@@ -1,2 +1,4 @@
 # hello-world
-optional description of my hello-world repository
+
+Be nice, Be fair,
+Be kind || be gone.
